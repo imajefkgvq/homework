@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGgdToLUw-ho0CO9lirbcbSM1oJIiJ5p2Mfg&s);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 1960px,210px;
+}
+a{
+    color: antiquewhite;
+}
+section{
+    color: antiquewhite;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    float: right;
+    width: 300px;
+}
